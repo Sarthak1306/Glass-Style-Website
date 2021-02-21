@@ -270,7 +270,7 @@ width: 200px;
 
 /* ----- Animated NavBar Section ------ */
 
-/* .container{
+.container{
     background-color: black;
     transform-origin: top left;
     transition: transform 0.5s linear;
@@ -375,4 +375,4 @@ nav ul li + li{
 nav ul li + li + li{
     margin-left: 30px;
     transform: translateX(-200%);
-} */
+}
